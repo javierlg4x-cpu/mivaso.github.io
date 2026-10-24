@@ -1,0 +1,4541 @@
+{
+ "version": 1,
+ "categorias": [
+  {
+   "id": "vasos",
+   "slug": "vasos-reutilizables",
+   "titulo": "Vasos Reutilizables",
+   "menu": "VASOS",
+   "h": "VASOS REUTILIZABLES",
+   "singular": "Vaso",
+   "img": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-300x300.jpg",
+   "seo": "Vasos reutilizables de polipropileno, personalizados con tu marca desde 500 unidades. Fabricación nacional en Chile.",
+   "orden": 1
+  },
+  {
+   "id": "copas",
+   "slug": "copas-reutilizables-de-acrilico",
+   "titulo": "Copas Reutilizables de Acrílico",
+   "menu": "COPAS",
+   "h": "COPAS REUTILIZABLES",
+   "singular": "Copa",
+   "img": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-600-300x300.jpg",
+   "seo": "Copas reutilizables de acrílico personalizadas para eventos, bares y marcas. Desde 500 unidades.",
+   "orden": 2
+  },
+  {
+   "id": "accesorios",
+   "slug": "accesorios",
+   "titulo": "Accesorios",
+   "menu": "ACCESORIOS",
+   "h": "ACCESORIOS",
+   "singular": "Accesorio",
+   "img": "https://mivaso.cl/wp-content/uploads/2025/12/portavaso-300x300.jpg",
+   "seo": "Accesorios de economía circular fabricados con vasos reciclados en nuestra propia planta.",
+   "orden": 3
+  }
+ ],
+ "productos": [
+  {
+   "slug": "vaso-atacama-60-cc",
+   "nombre": "Vaso Atacama 60 cc",
+   "corto": "Vaso Atacama 60 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 1,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 60 cc de Polipropileno reciclable ideal para shots, marcas de bebidas, licores tipo Whisky, Gin, Tequila, discoteques, bares nocturnos.\n\nVaso con stock en empavonado, posibilidad de fabricar vasos al por mayor vasos de colores según pedido mínimo de 1000 unidades de vasos.\n\nVaso personalizado desde 500 unidades a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-6-300x300.jpg",
+     "alt": "Vaso Atacama 60 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-6-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-6.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-6-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-6-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_vaso-imp-60cc-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 43,
+     "boca": 54,
+     "alto": 52,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "empavonado",
+      "nombre": "Empavonado",
+      "hex": "#EEF2F3",
+      "alfa": 0.78,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "60 cc"
+      ],
+      [
+       "Peso",
+       "30 gr"
+      ],
+      [
+       "Medidas",
+       "43/54 x 52 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 60 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla60cc_MiVasoSHOT-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 60 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-60cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-chiloe-120-cc",
+   "nombre": "Vaso Chiloé 120 cc",
+   "corto": "Vaso Chiloé 120 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 2,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de Polipropileno reciclable para shots, excelente para degustaciones de cervezas artesanales, degustaciones de bebidas, también sirve para licores tipo Whisky, Gin, Tequila, muy utilizado para discoteques, bares nocturnos.\n\nVaso con stock en empavonado, posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades de vasos reutilizables.\n\nVaso personalizado desde 500 unidades a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1-tinta-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1-tinta-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1-tinta-120-300x300.jpg",
+     "alt": "Vaso Chiloé 120 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-9.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-9-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-9-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-9.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-9-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-9-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-7-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-7.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-7-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-7-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_vaso-imp-120cc-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 43,
+     "boca": 53,
+     "alto": 81,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "empavonado",
+      "nombre": "Empavonado",
+      "hex": "#EEF2F3",
+      "alfa": 0.78,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "120 cc"
+      ],
+      [
+       "Peso",
+       "30 gr"
+      ],
+      [
+       "Medidas",
+       "43/53 x 81 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 120 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla120cc_vaso-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 120 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-120cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-llanquihue-230-cc",
+   "nombre": "Vaso Llanquihue 230 cc",
+   "corto": "Vaso Llanquihue 230 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 3,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable Casino de 230 cc de Polipropileno reciclable. Vaso elegante y compacto ideal para casinos de minería, universidades, empresas, HORECA.\n\nVaso con stock en color transparente, posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nPosibilidad de fabricar vasos en acrílico, consúltenos.\n\nVaso personalizado desde 500 unidades solo a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-1-300x300.jpg",
+     "alt": "Vaso Llanquihue 230 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-230-C.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-230-C-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-230-C-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/v230_Mesa-de-trabajo-1-copia.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/v230_Mesa-de-trabajo-1-copia-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/v230_Mesa-de-trabajo-1-copia-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_230CC-TEXTURA.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_230CC-TEXTURA.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_230CC-TEXTURA-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_230CC-TEXTURA-12-1-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 59,
+     "boca": 79,
+     "alto": 82,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "230 cc"
+      ],
+      [
+       "Peso",
+       "45 gr"
+      ],
+      [
+       "Medidas",
+       "59/79 x 82 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 230 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla230cc_vaso.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 230 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-230cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-magallanes-330-cc",
+   "nombre": "Vaso Magallanes 330 cc",
+   "corto": "Vaso Magallanes 330 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 4,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 330 cc de Polipropileno reciclable usado para máquinas expendedoras de aguas, regalos corporativos, reuniones, simposios, fiestas privadas.\n\nVasos de colores, contamos con stock de vasos flúor (verde, amarillo, naranjo, fucsia).\n\nVaso personalizado desde 500 unidades de uno a full color mediante serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-300x300.jpg",
+     "alt": "Vaso Magallanes 330 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/10.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/10-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/10-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/11.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/11-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/11-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/12.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/12-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/12-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_330cc-impreso-300x300.png",
+   "destacado": {
+    "activo": true,
+    "img": "https://mivaso.cl/wp-content/uploads/2025/12/330-HOME-300x300.png"
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 53,
+     "boca": 74,
+     "alto": 117,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "330 cc"
+      ],
+      [
+       "Peso",
+       "38 gr"
+      ],
+      [
+       "Medidas",
+       "53/74 x 117 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 330 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla330cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 330 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-330cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-aconcagua-350cc",
+   "nombre": "Vaso Aconcagua 350 cc",
+   "corto": "Vaso Aconcagua 350cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 5,
+   "titulo_ficha": "",
+   "descripcion": "Vaso tipo caña reutilizable de 350 cc de Polipropileno, reciclable usado para servir piscolas, o tragos que sirven en discoteques.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia), también hay posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nVaso personalizado desde 500 unidades de uno a full color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-3.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-3-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1tinta-3-300x300.jpg",
+     "alt": "Vaso Aconcagua 350 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-4.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-4-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-4-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-3.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-3-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-3-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-4.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-4-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-4-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-3.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-3-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-3-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-4.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-4-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-4-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-4.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-4-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-4-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-4.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-4-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-4-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_350cc-impR-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 62,
+     "boca": 62,
+     "alto": 114,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "350 cc"
+      ],
+      [
+       "Peso",
+       "30 gr"
+      ],
+      [
+       "Medidas",
+       "62 x 114 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 350 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla350cc-Aconcagua_MiVasoLEYENDA-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 350 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-vaso-350cc-Aconcagua.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-andes-380-cc",
+   "nombre": "Vaso Andes 380 cc",
+   "corto": "Vaso Andes 380 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 6,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 380 cc de Polipropileno, reciclable usado para servir piscolas, gintonics, tropical Gin, tragos que sirven en discoteques, barras de conciertos, festivales, eventos masivos, eventos gastronómicos.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia), también hay posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nVaso personalizado desde 500 unidades de uno a full color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-300x300.jpg",
+     "alt": "Vaso Andes 380 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/10.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/10-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/10-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/11.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/11-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/11-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/12.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/12-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/12-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_380cc-imp-300x300.png",
+   "destacado": {
+    "activo": true,
+    "img": "https://mivaso.cl/wp-content/uploads/2025/12/380-home-2-300x300.png"
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 53,
+     "boca": 74,
+     "alto": 138,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "380 cc"
+      ],
+      [
+       "Peso",
+       "42 gr"
+      ],
+      [
+       "Medidas",
+       "53/74 x 138 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 380 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla380cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 380 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-380cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-andes-380-cc-con-tapa-y-bombilla",
+   "nombre": "Vaso Andes 380 cc con Tapa y Bombilla",
+   "corto": "Vaso Andes 380 cc con tapa y bombilla",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 7,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 380 cc de Polipropileno, reciclable, ideal para servir piscolas, gin, tragos que sirven en discoteques, barras de conciertos, festivales, eventos masivos, eventos gastronómicos.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia).\n\nIncluye la tapa reutilizable con sellado hermético, además de la bombilla reutilizable de 20 cm en color transparente.\n\nVaso personalizado desde 500 unidades de uno a full color mediante serigrafía. La tapa y la bombilla no se pueden personalizar mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-1-1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-1-1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-1-1-300x300.jpg",
+     "alt": "Vaso Andes 380 cc con Tapa y Bombilla"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-2.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-2-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-2-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-5.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-5-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-380cc-5-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_380cc-imp-CT-CB-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 53,
+     "boca": 74,
+     "alto": 138,
+     "referencial": false,
+     "tapa": "bombilla"
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-300x300.png",
+       "alt": "Natural (transparente)"
+      }
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-300x300.png",
+       "alt": "Verde flúor"
+      }
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-300x300.png",
+       "alt": "Amarillo flúor"
+      }
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-300x300.png",
+       "alt": "Naranjo flúor"
+      }
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-300x300.png",
+       "alt": "Fucsia flúor"
+      }
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-300x300.png",
+       "alt": "Rojo"
+      }
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-300x300.png",
+       "alt": "Azul"
+      }
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-300x300.png",
+       "alt": "Morado (lila)"
+      }
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-300x300.png",
+       "alt": "Negro"
+      }
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "380 cc"
+      ],
+      [
+       "Peso",
+       "42 gr"
+      ],
+      [
+       "Medidas",
+       "53/74 x 138 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 380 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla380cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 380 cc con tapa y bombilla",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-tapa-bombilla-380cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-andes-380-cc-con-tapa-y-bombilla-2",
+   "nombre": "Vaso Andes 380 cc con tapa tipo café",
+   "corto": "Vaso Andes 380 cc con tapa tipo café",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 8,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 380 cc de Polipropileno, reciclable, ideal para servir piscolas, gin, tragos que sirven en discoteques, barras de conciertos, festivales, eventos masivos, eventos gastronómicos.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia).\n\nIncluye la tapa reutilizable con sellado hermético tipo café.\n\nVaso personalizado desde 500 unidades de uno a full color mediante serigrafía. La tapa no se puede personalizar mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-B-300x300.jpg",
+     "alt": "Vaso Andes 380 cc con tapa tipo café"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-2-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-2-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-2-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-5-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-5-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-380cc-5-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_380cc-imp-CT-tipo-cafe-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 53,
+     "boca": 74,
+     "alto": 138,
+     "referencial": false,
+     "tapa": "cafe"
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-CT-300x300.png",
+       "alt": "Natural (transparente)"
+      }
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-CT-300x300.png",
+       "alt": "Verde flúor"
+      }
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-CT-300x300.png",
+       "alt": "Amarillo flúor"
+      }
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-CT-300x300.png",
+       "alt": "Naranjo flúor"
+      }
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fucsia-CT-300x300.png",
+       "alt": "Fucsia flúor"
+      }
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-CT-300x300.png",
+       "alt": "Rojo"
+      }
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-CT-300x300.png",
+       "alt": "Azul"
+      }
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-CT-300x300.png",
+       "alt": "Morado (lila)"
+      }
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-CT-300x300.png",
+       "alt": "Negro"
+      }
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "380 cc"
+      ],
+      [
+       "Peso",
+       "42 gr"
+      ],
+      [
+       "Medidas",
+       "53/74 x 138 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 380 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla380cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 380 cc con tapa tipo café",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-tapa-cafe-380cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-aysen-480-cc",
+   "nombre": "Vaso Aysén 480 cc",
+   "corto": "Vaso Aysén 480 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 9,
+   "titulo_ficha": "",
+   "descripcion": "Vaso cónico reutilizable de 480 cc de Polipropileno, reciclable ideal para servir cocktails, mocktails, gin-tonics, tragos que sirven en discoteques, barras de conciertos, festivales, eventos masivos, eventos gastronómicos, ferias costumbristas.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia), posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nVaso personalizado desde 500 unidades de uno a full color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B-300x300.jpg",
+     "alt": "Vaso Aysén 480 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-480-620-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-480-620.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-480-620-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-480-620-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_480cc-18-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 54,
+     "boca": 85,
+     "alto": 153,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "480 cc"
+      ],
+      [
+       "Peso",
+       "49 gr"
+      ],
+      [
+       "Medidas",
+       "54/85 x 153 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 480 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/PlantillaVasoSalar_480cc_MiVaso.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 480 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-480cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-patagonia-500-cc",
+   "nombre": "Vaso Patagonia 500 cc",
+   "corto": "Vaso Patagonia 500 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 10,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 500 cc de Polipropileno, reciclable, ideal para servir cervezas artesanales, jugos, bebidas de gran tamaño como energéticas, muy usadas en barras de conciertos, festivales, eventos masivos, eventos gastronómicos, ferias costumbristas.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia), posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-c1-300x300.jpg",
+     "alt": "Vaso Patagonia 500 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-2-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/500cc-380-330-5-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/12.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/12-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/12-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/11.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/11-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/11-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/10.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/10-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/10-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/vaso_500cc_brillante-2.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/vaso_500cc_brillante-2-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/vaso_500cc_brillante-2-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA_500cc-1-300x300.png",
+   "destacado": {
+    "activo": true,
+    "img": "https://mivaso.cl/wp-content/uploads/2025/12/500-HOME-300x300.png"
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 63,
+     "boca": 87,
+     "alto": 120,
+     "referencial": true
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "500 cc"
+      ],
+      [
+       "Peso",
+       "30 gr"
+      ],
+      [
+       "Medidas",
+       "43/54 x 52 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 500 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla500cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 500 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-500cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-patagonia-de-500-cc-con-tapa-y-bombilla",
+   "nombre": "Vaso Patagonia 500 cc con Tapa y Bombilla",
+   "corto": "Vaso Patagonia 500 cc con tapa y bombilla",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 11,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 500 cc de Polipropileno, reciclable, ideal para servir piscolas, gin, tragos que sirven en discoteques, barras de conciertos, festivales, eventos masivos, eventos gastronómicos.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia).\n\nIncluye la tapa reutilizable con sellado hermético, además de la bombilla reutilizable de 20 cm en color transparente.\n\nVaso personalizado de uno a full color mediante serigrafía. La tapa y la bombilla no se pueden personalizar mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-B-300x300.jpg",
+     "alt": "Vaso Patagonia 500 cc con Tapa y Bombilla"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-2-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-2-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-2-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-5-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-5-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/tapa-bombilla-500cc-5-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_500cc-CT-CB-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 63,
+     "boca": 87,
+     "alto": 120,
+     "referencial": true,
+     "tapa": "bombilla"
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/natural-2-300x300.png",
+       "alt": "Natural (transparente)"
+      }
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/verde-2-300x300.png",
+       "alt": "Verde flúor"
+      }
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/amarillo-2-300x300.png",
+       "alt": "Amarillo flúor"
+      }
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/naranjo-2-300x300.png",
+       "alt": "Naranjo flúor"
+      }
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/fcusia-300x300.png",
+       "alt": "Fucsia flúor"
+      }
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/rojo-2-300x300.png",
+       "alt": "Rojo"
+      }
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/azul-2-300x300.png",
+       "alt": "Azul"
+      }
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/morado-2-300x300.png",
+       "alt": "Morado (lila)"
+      }
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2.png",
+       "medio": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2-1024x1024.png",
+       "mini": "https://mivaso.cl/wp-content/uploads/2025/12/negro-2-300x300.png",
+       "alt": "Negro"
+      }
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "500 cc"
+      ],
+      [
+       "Peso",
+       "49 gr"
+      ],
+      [
+       "Medidas",
+       "63/87 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 500 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla500cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 500 cc con tapa y bombilla",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-tapa-bombilla-500cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-metropolitano-620-cc",
+   "nombre": "Vaso Metropolitano 620 cc",
+   "corto": "Vaso Metropolitano 620 cc",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 12,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 620 cc de Polipropileno, reciclable, ideal para servir cervezas artesanales, jugos, bebidas de gran tamaño como energéticas, muy usadas en barras de conciertos, festivales, eventos masivos, eventos gastronómicos, ferias costumbristas.\n\nVasos de colores, contamos con vasos flúor (verde, amarillo, naranjo, fucsia), posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nVaso personalizado de uno a full color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-B-300x300.jpg",
+     "alt": "Vaso Metropolitano 620 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-2-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/480cc-620cc-5-B-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-8-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-8.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-8-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-8-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_620cc-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 60,
+     "boca": 91,
+     "alto": 165,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "620 cc"
+      ],
+      [
+       "Peso",
+       "49 gr"
+      ],
+      [
+       "Medidas",
+       "60/91 x 165 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 620 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla620cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 620 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-620cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "vaso-antartico-de-litro-1000cc",
+   "nombre": "Vaso Antártico de Litro (1000 cc)",
+   "corto": "Vaso Antártico de Litro (1000cc)",
+   "categoria": "vasos",
+   "estado": "publicado",
+   "orden": 13,
+   "titulo_ficha": "",
+   "descripcion": "Vaso reutilizable de 1000 cc de Polipropileno, ¡reciclable ideal para servir mucha cerveza artesanal, jugos, terremotos a la chilena de gran tamaño! Destaca sobre el resto por su gran tamaño.\n\nContamos con vasos naturales, también se puede fabricar al por mayor colores, flúor u otros colores. La posibilidad de fabricar al por mayor vasos de colores según pedido mínimo de 1000 unidades.\n\nVaso personalizado desde 500 unidades a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-b-1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-b-1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-b-1-300x300.jpg",
+     "alt": "Vaso Antártico de Litro (1000 cc)"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-2-B-1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-2-B-1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-2-B-1-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-5-B-1.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-5-B-1-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/1000cc-5-B-1-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-1000cc-300x300.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-1000cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-1000cc-1024x1024.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-1000cc-300x300.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/VASO_COPA-ultimos_1000cc-22-300x300.png",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "vaso",
+     "fondo": 84,
+     "boca": 108,
+     "alto": 150,
+     "referencial": false
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Homopolymere polypropylene"
+      ],
+      [
+       "Capacidad",
+       "1000 cc"
+      ],
+      [
+       "Peso",
+       "52 gr"
+      ],
+      [
+       "Medidas",
+       "84/108 x 150 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Vaso Reutilizable 1000 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla1000cc_MiVasoLEYENDA.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Vaso 1000 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Vaso-1000cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/LAVAVAJILLA.png",
+       "alt": "Lavavajillas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "copa-valparaiso-120-cc-material-acrilico",
+   "nombre": "Copa Valparaíso 120 cc (Material acrílico)",
+   "corto": "Copa Valparaíso 120 cc",
+   "categoria": "copas",
+   "estado": "publicado",
+   "orden": 14,
+   "titulo_ficha": "",
+   "descripcion": "Copa acrílica reutilizable de 120 cc, ideal para servir champañas, vinos espumantes, sour con un estilo elegante.\n\nContamos con copas en acrílico naturales, también se pueden fabricar al por mayor en colores según pedido mínimo de 1000 unidades.\n\nCopa personalizada desde 500 unidades solo a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-120-300x300.jpg",
+     "alt": "Copa Valparaíso 120 cc (Material acrílico)"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-3-S.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-3-S-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-3-S-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-copa-120-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-copa-120.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-copa-120-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-copa-120-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-120-300x300.jpg",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "copa",
+     "estilo": "flauta",
+     "pie": 65,
+     "boca": 57,
+     "alto": 184
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "naranjo",
+      "nombre": "Naranjo flúor",
+      "hex": "#FF7A1C",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Acrílico (SANS)"
+      ],
+      [
+       "Capacidad",
+       "120 cc"
+      ],
+      [
+       "Peso",
+       "59 gr"
+      ],
+      [
+       "Medidas",
+       "65/57 x 184 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Copa Valparaíso 120 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla120cc_Copas-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Copa Valparaíso 120 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Copa-120cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "copa-nevados-450-cc-material-acrilico",
+   "nombre": "Copa Nevados 450 cc (Material acrílico)",
+   "corto": "Copa Nevados 450 cc",
+   "categoria": "copas",
+   "estado": "publicado",
+   "orden": 15,
+   "titulo_ficha": "",
+   "descripcion": "Copa reutilizable con un diseño amplio. Ideal para servir mojitos, sidras y cubatas con generosas porciones de hielo. Disfruta de tus bebidas favoritas con comodidad y estilo en esta elegante copa.\n\nContamos con copas en acrílico natural, también se pueden fabricar al por mayor en colores según pedido mínimo de 1000 unidades, además de contar con stock al detalle y al por mayor de copas negras, amarillas, fucsias y lilas.\n\nCopa personalizada desde 500 unidades solo a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/mockup-copa-450cc.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/mockup-copa-450cc-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/mockup-copa-450cc-300x300.jpg",
+     "alt": "Copa Nevados 450 cc (Material acrílico)"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-muckup.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-muckup-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-muckup-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/transparente.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/azul.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/azul-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/azul-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/morado.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/morado-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/morado-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/negro.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/negro-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/negro-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/rojo.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/rojo-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/rojo-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2026/08/verde.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2026/08/verde-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2026/08/verde-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2026/08/mockup-copa-450cc-1-300x300.jpg",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "copa",
+     "estilo": "tulipa",
+     "pie": 77,
+     "boca": 85,
+     "alto": 210
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/transparente.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/transparente-300x300.jpg",
+       "alt": "Natural (transparente)"
+      }
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/negro.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/negro-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/negro-300x300.jpg",
+       "alt": "Negro"
+      }
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/amarillo-300x300.jpg",
+       "alt": "Amarillo flúor"
+      }
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/fucsia-300x300.jpg",
+       "alt": "Fucsia flúor"
+      }
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/morado.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/morado-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/morado-300x300.jpg",
+       "alt": "Morado (lila)"
+      }
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/azul.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/azul-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/azul-300x300.jpg",
+       "alt": "Azul"
+      }
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/rojo.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/rojo-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/rojo-300x300.jpg",
+       "alt": "Rojo"
+      }
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": {
+       "src": "https://mivaso.cl/wp-content/uploads/2026/08/verde.jpg",
+       "medio": "https://mivaso.cl/wp-content/uploads/2026/08/verde-1024x1024.jpg",
+       "mini": "https://mivaso.cl/wp-content/uploads/2026/08/verde-300x300.jpg",
+       "alt": "Verde flúor"
+      }
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Acrílico (SANS)"
+      ],
+      [
+       "Capacidad",
+       "450 cc"
+      ],
+      [
+       "Peso",
+       "67 gr"
+      ],
+      [
+       "Medidas",
+       "77/85 x 210 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Copa Nevados 450 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2026/08/Plantilla450cc_Copas-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Copa Nevados 450 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2026/08/ficha-tecnica-Copa-450cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "copa-torres-del-paine-paine-580-cc",
+   "nombre": "Copa Torres del Paine 580 cc",
+   "corto": "Copa Torres del Paine 580 cc",
+   "categoria": "copas",
+   "estado": "publicado",
+   "orden": 16,
+   "titulo_ficha": "",
+   "descripcion": "Copa acrílica reutilizable de 580 cc, ideal para servir aperitivos tipo Ramazzotti, Aperol, cócteles, mocktails y sobre todo gin tonics y Tropical Gin de forma elegante.\n\nContamos con copas en acrílico natural, también tenemos en colores, detalle y al por mayor de copas negras, amarillas, fucsias y lilas, consulte la disponibilidad de stock.\n\nPodemos fabricar a colores específicos en material acrílico desde 1000 unidades.\n\nCopa personalizada desde 500 unidades solo a un color mediante la impresión en serigrafía.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-600-300x300.jpg",
+     "alt": "Copa Torres del Paine 580 cc"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-1-L.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-1-L-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-1-L-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/03-copa-600-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/05-2_580.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/05-2_580-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/05-2_580-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/09-copa-600-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/08-copa-600-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/07-copa-600-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-600.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-600-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/06-copa-600-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/04-1_580.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/04-1_580-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/04-1_580-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/01-1_580.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/01-1_580-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/01-1_580-300x300.jpg",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/02-1_580.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/02-1_580-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/02-1_580-300x300.jpg",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/01-copa-600-300x300.jpg",
+   "destacado": {
+    "activo": true,
+    "img": "https://mivaso.cl/wp-content/uploads/2025/12/02-1_580-300x300.jpg"
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "copa",
+     "estilo": "balon",
+     "pie": 80,
+     "boca": 104,
+     "alto": 200
+    },
+    "colores": [
+     {
+      "id": "natural",
+      "nombre": "Natural (transparente)",
+      "hex": "#DCE9EE",
+      "alfa": 0.3,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "negro",
+      "nombre": "Negro",
+      "hex": "#1E1E1E",
+      "alfa": 0.93,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "amarillo",
+      "nombre": "Amarillo flúor",
+      "hex": "#F2EE1D",
+      "alfa": 0.82,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "fucsia",
+      "nombre": "Fucsia flúor",
+      "hex": "#FF2E93",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "morado",
+      "nombre": "Morado (lila)",
+      "hex": "#8E47C9",
+      "alfa": 0.8,
+      "stock": true,
+      "foto": null
+     },
+     {
+      "id": "azul",
+      "nombre": "Azul",
+      "hex": "#1E6CD0",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "rojo",
+      "nombre": "Rojo",
+      "hex": "#D3262B",
+      "alfa": 0.82,
+      "stock": false,
+      "foto": null
+     },
+     {
+      "id": "verde",
+      "nombre": "Verde flúor",
+      "hex": "#5FE03A",
+      "alfa": 0.8,
+      "stock": false,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": []
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "Acrílico (SANS)"
+      ],
+      [
+       "Capacidad",
+       "580 cc"
+      ],
+      [
+       "Peso",
+       "15 gr"
+      ],
+      [
+       "Medidas",
+       "80/166 x 200 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "pantone",
+     "plantilla": true
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Plantilla Copa Torres del Paine 580 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/Plantilla580cc_Copas-copia.pdf"
+      },
+      {
+       "titulo": "Ficha técnica Copa Torres del Paine 580 cc",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-Copa-580cc.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    },
+    {
+     "id": "usos",
+     "tipo": "usos",
+     "titulo": "Usos del producto",
+     "texto": "Válido para contacto directo con alimentos o bebidas frías y calientes.",
+     "iconos": [
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-COPA-TENEDOR.png",
+       "alt": "Apto para alimentos y bebidas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/MICROHONDA.png",
+       "alt": "Microondas"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REFRI.png",
+       "alt": "Refrigerador"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-HORNO.png",
+       "alt": "No apto para horno"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/NO-APTO-REFRI.png",
+       "alt": "Ícono de uso: refrigeración no apta"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/REUTILIZABLE.png",
+       "alt": "Reutilizable"
+      },
+      {
+       "src": "https://mivaso.cl/wp-content/uploads/2025/12/RECICLABLE.png",
+       "alt": "Reciclable"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  },
+  {
+   "slug": "porta-vaso",
+   "nombre": "Portavaso",
+   "corto": "Portavaso",
+   "categoria": "accesorios",
+   "estado": "publicado",
+   "orden": 17,
+   "titulo_ficha": "Accesorios de Economía Circular",
+   "descripcion": "**Portavaso (no incluye lanyard).** Fabricado con material 100% reciclado de nuestros vasos y nuestros desechos en planta. Cerramos el ciclo de la economía circular con productos reciclados y más sustentables.",
+   "imagenes": [
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/portavaso.jpg",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/portavaso-1024x1024.jpg",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/portavaso-300x300.jpg",
+     "alt": "Portavaso"
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-380cc-330cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-380cc-330cc.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-380cc-330cc.png",
+     "alt": ""
+    },
+    {
+     "src": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-500cc.png",
+     "medio": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-500cc.png",
+     "mini": "https://mivaso.cl/wp-content/uploads/2025/12/porta-vaso-500cc.png",
+     "alt": ""
+    }
+   ],
+   "miniatura": "https://mivaso.cl/wp-content/uploads/2025/12/portavaso-300x300.jpg",
+   "destacado": {
+    "activo": false,
+    "img": ""
+   },
+   "cotizador": {
+    "activo": true,
+    "forma": {
+     "tipo": "portavaso",
+     "diametro": 81,
+     "alto": 32,
+     "referencial": true
+    },
+    "colores": [
+     {
+      "id": "reciclado",
+      "nombre": "Reciclado (tono variable)",
+      "hex": "#3E4540",
+      "alfa": 1,
+      "stock": true,
+      "foto": null
+     }
+    ],
+    "tintas": [
+     "1",
+     "2",
+     "3",
+     "full"
+    ],
+    "variantes": [
+     "Para vaso Magallanes 330 cc / Andes 380 cc",
+     "Para vaso Patagonia 500 cc"
+    ]
+   },
+   "bloques": [
+    {
+     "id": "detalles",
+     "tipo": "specs",
+     "titulo": "Detalles del producto",
+     "filas": [
+      [
+       "Material",
+       "100% materia prima reciclada"
+      ],
+      [
+       "Medidas",
+       "81 mm Ø | 72 mm Ø"
+      ],
+      [
+       "Medida argolla",
+       "6 mm"
+      ]
+     ]
+    },
+    {
+     "id": "diseno",
+     "tipo": "diseno",
+     "titulo": "Diseño",
+     "color": "cmyk",
+     "plantilla": false
+    },
+    {
+     "id": "adjuntos",
+     "tipo": "adjuntos",
+     "titulo": "Adjuntos",
+     "items": [
+      {
+       "titulo": "Ficha técnica Portavaso",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/ficha-tecnica-portavaso.pdf"
+      },
+      {
+       "titulo": "Guía de impresión",
+       "url": "https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf"
+      }
+     ]
+    }
+   ],
+   "seo": {
+    "titulo": "",
+    "descripcion": ""
+   }
+  }
+ ],
+ "destacados_orden": [
+  "vaso-magallanes-330-cc",
+  "vaso-andes-380-cc",
+  "vaso-patagonia-500-cc",
+  "copa-torres-del-paine-paine-580-cc"
+ ]
+}

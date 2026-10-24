@@ -1,0 +1,1143 @@
+{
+    "version": 1,
+    "revision": 1,
+    "paginas": [
+        {
+            "id": "inicio",
+            "slug": "",
+            "titulo": "Inicio",
+            "tipo": "pagina",
+            "sistema": true,
+            "estado": "publicado",
+            "plantilla": {
+                "cabecera": "normal",
+                "pie": "normal"
+            },
+            "seo": {
+                "titulo": "",
+                "descripcion": "Pioneros en economía circular para eventos masivos en Chile desde 2015. Vasos y copas reutilizables personalizados desde 500 unidades.",
+                "imagen": null,
+                "noindex": false
+            },
+            "secciones": [
+                {
+                    "id": "s-ini-banner",
+                    "tipo": "banner",
+                    "oculto": false,
+                    "slides": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/Color-scaled.jpg",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/Color-scaled.jpg",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/Color-scaled.jpg",
+                                "alt": ""
+                            },
+                            "img_movil": null,
+                            "titulo": "",
+                            "texto": "",
+                            "boton_texto": "",
+                            "boton_url": "",
+                            "posicion": "izq",
+                            "alt": "Vasos reutilizables Mi Vaso de distintos colores"
+                        }
+                    ],
+                    "alto": "grande",
+                    "efecto": "zoom",
+                    "intervalo": 6,
+                    "oscurecer": "suave",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "ninguna",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-circular",
+                    "tipo": "texto_imagen",
+                    "oculto": false,
+                    "img": {
+                        "src": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO-30-1024x1001.png",
+                        "medio": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO-30-1024x1001.png",
+                        "mini": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO-30-1024x1001.png",
+                        "alt": "Mosaico de vasos personalizados Mi Vaso"
+                    },
+                    "posicion": "izq",
+                    "tam_img": "normal",
+                    "titulo": "En Mi Vaso somos circulares",
+                    "intro": "Somos pioneros en economía circular para eventos masivos en Chile. Desde 2015 impulsamos la reutilización de vasos y transformamos materiales recuperados en nuevos productos. Ofrecemos soluciones sostenibles que cierran completamente el ciclo de vida del plástico.",
+                    "texto": "",
+                    "boton_texto": "Cotiza aquí",
+                    "boton_url": "/cotizador/",
+                    "boton_estilo": "relleno",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-pilares",
+                    "tipo": "iconos",
+                    "oculto": false,
+                    "titulo": "",
+                    "intro": "",
+                    "estilo": "pilar",
+                    "columnas": 4,
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-300x298.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-300x298.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-300x298.png",
+                                "alt": ""
+                            },
+                            "titulo": "Economía circular aplicada a eventos masivos",
+                            "texto": "",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-2.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-2.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-2.png",
+                                "alt": ""
+                            },
+                            "titulo": "Reutilización de vasos como alternativa real",
+                            "texto": "",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-PROCESO-PROPIO.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-PROCESO-PROPIO.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/ICONO-PROCESO-PROPIO.png",
+                                "alt": ""
+                            },
+                            "titulo": "Proceso propio de transformación de materiales",
+                            "texto": "",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-4.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-4.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/MOSAICO_Asesoria-y-diseno-copia-4.png",
+                                "alt": ""
+                            },
+                            "titulo": "Compromiso con reducir el impacto ambiental",
+                            "texto": "",
+                            "url": ""
+                        }
+                    ],
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "unir",
+                    "animacion": "subir",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-destacados",
+                    "tipo": "productos",
+                    "oculto": false,
+                    "titulo": "Productos destacados",
+                    "intro": "",
+                    "modo": "destacados",
+                    "categoria": "vasos",
+                    "elegidos": [],
+                    "maximo": 8,
+                    "columnas": 4,
+                    "boton_texto": "Ver todos los productos",
+                    "boton_url": "/productos/",
+                    "boton_estilo": "borde",
+                    "fondo": "claro",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-porque",
+                    "tipo": "desplegables",
+                    "oculto": false,
+                    "titulo": "¿Por qué surge Mi Vaso?",
+                    "intro": "",
+                    "columnas": 4,
+                    "abrir": "cerradas",
+                    "una": false,
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Problema.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Problema.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Problema.png",
+                                "alt": ""
+                            },
+                            "titulo": "¿Cuál es el problema?",
+                            "etiqueta": "VASOS DESECHABLES",
+                            "texto": "En un evento masivo, casi el 80% de los residuos son vasos desechables.\n\n1. Residuos plásticos\n2. Reciclaje ineficiente\n3. Desperdicio de recursos",
+                            "url": "/nosotros/#elproblema",
+                            "boton_texto": "Saber más…"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_La-solucion.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_La-solucion.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_La-solucion.png",
+                                "alt": ""
+                            },
+                            "titulo": "¿Cuál es la solución?",
+                            "etiqueta": "VASOS REUTILIZABLES",
+                            "texto": "Nuestros vasos reutilizables pueden reemplazar cientos de vasos desechables.\n\n1. Ahorro económico: materiales sostenibles y resistentes.\n2. Conciencia ecológica y marketing sustentable.\n3. Fabricación nacional.\n4. Cumplimos con la Ley N.º 21.368, que regula los plásticos de un solo uso.",
+                            "url": "/nosotros/#Nuestra_solucion",
+                            "boton_texto": "Saber más…"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Nuestros-Clientes.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Nuestros-Clientes.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Nuestros-Clientes.png",
+                                "alt": ""
+                            },
+                            "titulo": "¿Para quién?",
+                            "etiqueta": "MARCAS / PERSONAS",
+                            "texto": "1. Festivales, eventos masivos y corporativos (gastronómicos o culturales).\n2. Empresas, casinos, restaurantes, fast food, cines.\n3. Discotecas y bares nocturnos.\n4. Marcas de distribución de bebidas y licores.\n5. Agencias de publicidad (BTL).",
+                            "url": "/econimia-circular/#quienes_usan_nuestro_producto",
+                            "boton_texto": "Saber más…"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Economia-Circular.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Economia-Circular.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_Economia-Circular.png",
+                                "alt": ""
+                            },
+                            "titulo": "¿Cómo funciona?",
+                            "etiqueta": "ECONOMÍA CIRCULAR",
+                            "texto": "En Mi Vaso te acompañamos en todo el proceso: elegimos, diseñamos, fabricamos y reciclamos tus vasos reutilizables, creando impacto real gracias a la economía circular.\n\nDescubre cómo transformamos cada evento en una acción sustentable.",
+                            "url": "/nosotros/#economia_circuilar",
+                            "boton_texto": "Saber más…"
+                        }
+                    ],
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-marcas",
+                    "tipo": "logos",
+                    "oculto": false,
+                    "titulo": "Ellos confían en nosotros",
+                    "intro": "",
+                    "estilo": "carrusel",
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "alt": "austral"
+                            },
+                            "nombre": "austral"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "alt": "Dreams"
+                            },
+                            "nombre": "Dreams"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "alt": "Falabella"
+                            },
+                            "nombre": "Falabella"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "alt": "Ford"
+                            },
+                            "nombre": "Ford"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "alt": "Guayacán"
+                            },
+                            "nombre": "Guayacán"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "alt": "Kunstmann"
+                            },
+                            "nombre": "Kunstmann"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "alt": "Mercado Libre"
+                            },
+                            "nombre": "Mercado Libre"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "alt": "Mistral"
+                            },
+                            "nombre": "Mistral"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "alt": "Universidad de Antofagasta"
+                            },
+                            "nombre": "Universidad de Antofagasta"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "alt": "Universidad Austral de Chile"
+                            },
+                            "nombre": "Universidad Austral de Chile"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "alt": "PUCV"
+                            },
+                            "nombre": "PUCV"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "alt": "UTFSM"
+                            },
+                            "nombre": "UTFSM"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "alt": "WOM"
+                            },
+                            "nombre": "WOM"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "alt": "Monticello"
+                            },
+                            "nombre": "Monticello"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "alt": "Brujas"
+                            },
+                            "nombre": "Brujas"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "alt": "Alto del Carmen"
+                            },
+                            "nombre": "Alto del Carmen"
+                        }
+                    ],
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno",
+                    "fondo": "claro",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "aparecer",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-faq",
+                    "tipo": "acordeon",
+                    "oculto": false,
+                    "titulo": "Todo lo que necesitas saber",
+                    "intro": "",
+                    "items": [
+                        {
+                            "pregunta": "¿Cuánto es el mínimo de vasos?",
+                            "respuesta": "Fabricamos vasos personalizados desde 500 unidades en adelante."
+                        },
+                        {
+                            "pregunta": "¿Cuántos diseños puedo hacer en un mismo pedido?",
+                            "respuesta": "El diseño debe ser único para la totalidad de los vasos. Por ejemplo: si haces mil vasos, todos deben tener el mismo diseño."
+                        },
+                        {
+                            "pregunta": "¿Se pueden mezclar los vasos en un mismo pedido?",
+                            "respuesta": "Sí, puedes mezclar colores en un mismo pedido. Por ejemplo, en un pedido de mil vasos puedes escoger doscientos vasos rojos, doscientos verdes, y así hasta completar el pedido. Recuerda consultar por disponibilidad de nuestro stock."
+                        },
+                        {
+                            "pregunta": "¿Se pueden usar los vasos para bebidas calientes?",
+                            "respuesta": "Sí, nuestros vasos son de Polipropileno (PP5) y su punto de fusión es de 160°, por tanto, pueden soportar temperaturas elevadas sin sufrir deformaciones ni alterar sabores en bebidas calientes."
+                        },
+                        {
+                            "pregunta": "¿Se puede imprimir el vaso completo?",
+                            "respuesta": "Sí, se puede imprimir el vaso casi completo, ya que hay un margen de 1,5 cm en la parte superior e inferior del vaso que no es imprimible, además de un margen de 1 cm desde el inicio del diseño hasta el final. **[Ver guía de impresión](https://mivaso.cl/wp-content/uploads/2025/12/guia-de-impresion-MiVaso.pdf)**"
+                        },
+                        {
+                            "pregunta": "¿Cuánto tardan en hacer los vasos?",
+                            "respuesta": "Para pedidos entre quinientos y cinco mil unidades, el plazo máximo es de cinco días hábiles. Si los necesitas antes, avísanos. En el caso de pedidos desde diez mil vasos en adelante, contáctanos para coordinar fechas de producción."
+                        },
+                        {
+                            "pregunta": "¿Se va la tinta de los vasos?",
+                            "respuesta": "No se va la tinta. Usamos tintas adecuadas y de calidad para que el recuerdo sea inolvidable. Somos humanos: si se va la tinta de algunos vasos por algún error de nuestro taller, avísanos y lo resolvemos."
+                        },
+                        {
+                            "pregunta": "Si me sobraron vasos del evento, ¿me los pueden reciclar ustedes?",
+                            "respuesta": "Encantados de hacerlo. Contáctanos y coordinemos la entrega en nuestras plantas para el reciclaje."
+                        }
+                    ],
+                    "abrir_primero": false,
+                    "ancho": "angosto",
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": ""
+                },
+                {
+                    "id": "s-ini-contacto",
+                    "tipo": "contacto",
+                    "oculto": false,
+                    "estilo": "banda",
+                    "titulo": "Contáctanos",
+                    "intro": "",
+                    "texto": "Completa el formulario y nos pondremos en contacto contigo a la brevedad.",
+                    "datos": [
+                        {
+                            "etiqueta": "WhatsApp",
+                            "valor": "+56 9 5043 5981",
+                            "url": "https://wa.me/56950435981"
+                        },
+                        {
+                            "etiqueta": "Teléfono",
+                            "valor": "+56 2 2583 1902",
+                            "url": "tel:+56225831902"
+                        },
+                        {
+                            "etiqueta": "Correo",
+                            "valor": "contacto@mivaso.cl",
+                            "url": "mailto:contacto@mivaso.cl"
+                        }
+                    ],
+                    "etiqueta_nombre": "Nombre",
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "ninguno",
+                    "animacion": "ninguna",
+                    "ancla": "contacto"
+                }
+            ],
+            "actualizado": "2026-10-24T17:47:35-03:00"
+        },
+        {
+            "id": "nosotros",
+            "slug": "nosotros",
+            "titulo": "Nosotros",
+            "tipo": "pagina",
+            "sistema": true,
+            "estado": "publicado",
+            "plantilla": {
+                "cabecera": "normal",
+                "pie": "normal"
+            },
+            "seo": {
+                "titulo": "Nosotros - MiVaso.cl",
+                "descripcion": "Desde 2015 innovamos en economía circular para eventos masivos en Chile, promoviendo la reutilización de vasos como alternativa real a los desechables.",
+                "imagen": {
+                    "src": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                    "medio": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                    "mini": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                    "alt": ""
+                },
+                "noindex": false
+            },
+            "secciones": [
+                {
+                    "id": "s-nos-banner",
+                    "tipo": "banner",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "ninguna",
+                    "ancla": "",
+                    "slides": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/banner3.png",
+                                "alt": ""
+                            },
+                            "img_movil": null,
+                            "titulo": "",
+                            "texto": "",
+                            "boton_texto": "",
+                            "boton_url": "",
+                            "posicion": "izq",
+                            "alt": "Equipo y producción de Mi Vaso"
+                        }
+                    ],
+                    "alto": "medio",
+                    "efecto": "zoom",
+                    "intervalo": 6,
+                    "oscurecer": "suave"
+                },
+                {
+                    "id": "s-nos-intro",
+                    "tipo": "texto_imagen",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "",
+                    "img": {
+                        "src": "https://mivaso.cl/wp-content/uploads/2025/12/somos-circulares.png",
+                        "medio": "https://mivaso.cl/wp-content/uploads/2025/12/somos-circulares.png",
+                        "mini": "https://mivaso.cl/wp-content/uploads/2025/12/somos-circulares.png",
+                        "alt": "Somos circulares"
+                    },
+                    "posicion": "izq",
+                    "tam_img": "chica",
+                    "titulo": "Nosotros",
+                    "intro": "Somos un equipo que se formó con la inquietud de tener una solución de consumo en eventos masivos. Desde 2015, gracias a un Capital Semilla CORFO, hemos innovado en el concepto de economía circular en el mundo de los eventos masivos en Chile, promoviendo la reutilización de vasos plásticos como una alternativa efectiva y real a los vasos de un solo uso.",
+                    "texto": "Nuestra filosofía está basada en la economía circular: damos una nueva vida a los materiales recuperados en nuestra propia planta de producción, creando productos nuevos como el portavaso, fabricado a partir de los vasos que ya no pueden ser reutilizados, cerrando así el ciclo de vida de nuestros productos.",
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno"
+                },
+                {
+                    "id": "s-nos-ciclo",
+                    "tipo": "imagen",
+                    "oculto": false,
+                    "fondo": "claro",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "economia_circuilar",
+                    "titulo": "Economía circular",
+                    "img": {
+                        "src": "https://mivaso.cl/wp-content/uploads/2025/11/infografia-economia-circular.png",
+                        "medio": "https://mivaso.cl/wp-content/uploads/2025/11/infografia-economia-circular.png",
+                        "mini": "https://mivaso.cl/wp-content/uploads/2025/11/infografia-economia-circular.png",
+                        "alt": "Infografía del ciclo de economía circular de Mi Vaso: elegir, diseñar, fabricar, usar, recuperar y reciclar"
+                    },
+                    "estilo": "caja",
+                    "pie": "",
+                    "url": ""
+                },
+                {
+                    "id": "s-nos-foto",
+                    "tipo": "banner",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "ninguna",
+                    "ancla": "",
+                    "slides": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/foto-2-nosotros-scaled.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/foto-2-nosotros-scaled.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/foto-2-nosotros-scaled.png",
+                                "alt": ""
+                            },
+                            "img_movil": null,
+                            "titulo": "",
+                            "texto": "",
+                            "boton_texto": "",
+                            "boton_url": "",
+                            "posicion": "izq",
+                            "alt": "Vasos reutilizables en un evento"
+                        }
+                    ],
+                    "alto": "chico",
+                    "efecto": "zoom",
+                    "intervalo": 6,
+                    "oscurecer": "suave"
+                },
+                {
+                    "id": "s-nos-problema",
+                    "tipo": "iconos",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "elproblema",
+                    "titulo": "¿Cuál es el problema? ¡Los vasos desechables!",
+                    "intro": "Los vasos desechables, o de plástico de un solo uso, pueden parecer inofensivos, pero su impacto ambiental es enorme. Solo en un evento masivo casi el 80% de los residuos son vasos desechables.",
+                    "estilo": "tarjeta",
+                    "columnas": 3,
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/icono_Residuos-palsticos.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/icono_Residuos-palsticos.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/icono_Residuos-palsticos.png",
+                                "alt": ""
+                            },
+                            "titulo": "Residuos plásticos",
+                            "texto": "La mayoría terminan en vertederos o en el océano, donde tardan cientos de años en degradarse. En el año 2050 habrá más plástico que peces en los océanos.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/icono_reciclaje-ineficiente.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/icono_reciclaje-ineficiente.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/icono_reciclaje-ineficiente.png",
+                                "alt": ""
+                            },
+                            "titulo": "Reciclaje ineficiente",
+                            "texto": "Muchos vasos, por ejemplo los de polipapel (vaso de café), tienen una capa de plástico que dificulta su reciclaje, lo que significa que la mayoría acaba como residuo.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_reciclaje-ineficiente-copia.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_reciclaje-ineficiente-copia.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MOSAICO_reciclaje-ineficiente-copia.png",
+                                "alt": ""
+                            },
+                            "titulo": "Desperdicio de recursos",
+                            "texto": "Se consumen grandes cantidades de agua y energía para producir vasos que se usan solo unos minutos.",
+                            "url": ""
+                        }
+                    ],
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno"
+                },
+                {
+                    "id": "s-nos-solucion",
+                    "tipo": "iconos",
+                    "oculto": false,
+                    "fondo": "claro",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "Nuestra_solucion",
+                    "titulo": "Nuestra solución: copas o vasos reutilizables",
+                    "intro": "",
+                    "estilo": "tarjeta",
+                    "columnas": 3,
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_REDUCCION-DE-RESIDUOS.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_REDUCCION-DE-RESIDUOS.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_REDUCCION-DE-RESIDUOS.png",
+                                "alt": ""
+                            },
+                            "titulo": "Reducción de residuos plásticos",
+                            "texto": "Un solo vaso reutilizable puede reemplazar cientos de vasos desechables.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_AHORRO-ECONOMICO.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_AHORRO-ECONOMICO.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_AHORRO-ECONOMICO.png",
+                                "alt": ""
+                            },
+                            "titulo": "Ahorro económico",
+                            "texto": "Aunque la inversión inicial es mayor, a la larga ahorras dinero al no comprar vasos desechables constantemente.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MATERIALES-SOSTENIBLES.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MATERIALES-SOSTENIBLES.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MATERIALES-SOSTENIBLES.png",
+                                "alt": ""
+                            },
+                            "titulo": "Materiales sostenibles y resistentes",
+                            "texto": "Nuestros vasos, fabricados en Chile en Polipropileno (PP5), son seguros, duraderos y más resistentes que los vasos desechables.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_CONCIENCIA-ECOLOGICA.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_CONCIENCIA-ECOLOGICA.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_CONCIENCIA-ECOLOGICA.png",
+                                "alt": ""
+                            },
+                            "titulo": "Conciencia ecológica",
+                            "texto": "El uso de vasos reutilizables demuestra compromiso con el medio ambiente y fomenta hábitos responsables.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MARKETING-SUSTENTABLE.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MARKETING-SUSTENTABLE.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_MARKETING-SUSTENTABLE.png",
+                                "alt": ""
+                            },
+                            "titulo": "Marketing sustentable",
+                            "texto": "Los vasos reutilizables también se pueden personalizar, lo que es una oportunidad para aumentar el reconocimiento y la visibilidad de las marcas.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_FABRICACION-NACIONAL.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_FABRICACION-NACIONAL.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/iconos_FABRICACION-NACIONAL.png",
+                                "alt": ""
+                            },
+                            "titulo": "Fabricación nacional",
+                            "texto": "Todos nuestros productos son fabricados en Chile, apoyando la producción local y reduciendo la huella de carbono en transporte. Además, estamos alineados con la Ley N.º 21.368, que regula y disminuye el uso de plásticos de un solo uso.",
+                            "url": ""
+                        }
+                    ],
+                    "boton_texto": "Cotiza aquí",
+                    "boton_url": "/cotizador/",
+                    "boton_estilo": "relleno"
+                }
+            ],
+            "actualizado": "2026-10-24T17:47:35-03:00"
+        },
+        {
+            "id": "para-quien",
+            "slug": "econimia-circular",
+            "titulo": "¿Para quién?",
+            "tipo": "pagina",
+            "sistema": true,
+            "estado": "publicado",
+            "plantilla": {
+                "cabecera": "normal",
+                "pie": "normal"
+            },
+            "seo": {
+                "titulo": "¿Para quién? Economía circular - MiVaso.cl",
+                "descripcion": "Vasos reutilizables para festivales, empresas, casinos, bares, marcas de bebidas y agencias. Reduce residuos y cumple la Ley REP.",
+                "imagen": {
+                    "src": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                    "medio": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                    "mini": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                    "alt": ""
+                },
+                "noindex": false
+            },
+            "secciones": [
+                {
+                    "id": "s-pq-banner",
+                    "tipo": "banner",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "ninguna",
+                    "ancla": "",
+                    "slides": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                                "medio": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                                "mini": "https://mivaso.cl/wp-content/uploads/elementor/thumbs/IMG_8741-scaled-rfhkks1a5d6n8axxqaeie48ifmy1za8jiiblgngn0o.jpg",
+                                "alt": ""
+                            },
+                            "img_movil": null,
+                            "titulo": "",
+                            "texto": "",
+                            "boton_texto": "",
+                            "boton_url": "",
+                            "posicion": "izq",
+                            "alt": "Barra de evento sirviendo en vasos reutilizables"
+                        }
+                    ],
+                    "alto": "medio",
+                    "efecto": "zoom",
+                    "intervalo": 6,
+                    "oscurecer": "suave"
+                },
+                {
+                    "id": "s-pq-quienes",
+                    "tipo": "iconos",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "quienes_usan_nuestro_producto",
+                    "titulo": "¿Quiénes usan nuestros productos?",
+                    "intro": "Los vasos reutilizables de Mi Vaso son la solución perfecta para todo tipo de eventos que buscan reducir su impacto ambiental, alinearse con la Ley REP (Ley 20.920) y disminuir su huella de carbono.",
+                    "estilo": "fila",
+                    "columnas": 1,
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Festivales-o.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Festivales-o.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Festivales-o.png",
+                                "alt": ""
+                            },
+                            "titulo": "Festivales o eventos masivos",
+                            "texto": "Eventos gastronómicos o culturales, pequeños o grandes, de uno o varios días de duración, en una ciudad o en medio de las montañas. Hacemos que todos los eventos sean 100% libres de vasos descartables.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Empresas-casinos.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Empresas-casinos.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Empresas-casinos.png",
+                                "alt": ""
+                            },
+                            "titulo": "Empresas, casinos, restaurantes, etc.",
+                            "texto": "Son los lugares que más residuos generan. Incentivamos una nueva cultura de consumo reutilizable dentro de la organización y se generan importantes ahorros en compras.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Discotecas-o-bares.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Discotecas-o-bares.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Discotecas-o-bares.png",
+                                "alt": ""
+                            },
+                            "titulo": "Discotecas o bares nocturnos",
+                            "texto": "Son grandes generadores de residuos de plástico, sobre todo en terrazas. Con nuestros vasos o copas reutilizables puedes reemplazar el cristal de vasos y copas que se quiebran con tanta facilidad.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Marcas-de-distribucion.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Marcas-de-distribucion.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Marcas-de-distribucion.png",
+                                "alt": ""
+                            },
+                            "titulo": "Marcas de distribución de bebidas",
+                            "texto": "Trabajamos con marcas que buscan fortalecer su presencia en eventos y puntos de venta mediante vasos reutilizables personalizados, reduciendo residuos y reforzando su identidad de marca de forma sostenible.",
+                            "url": ""
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Agencias-de-publicidad.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Agencias-de-publicidad.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/11/ico_Agencias-de-publicidad.png",
+                                "alt": ""
+                            },
+                            "titulo": "Agencias de publicidad (material POP)",
+                            "texto": "Colaboramos con agencias que necesitan piezas reutilizables y personalizables para activaciones, eventos y campañas, ofreciendo vasos y portavasos que funcionan como soporte publicitario duradero, visible y ecoamigable.",
+                            "url": ""
+                        }
+                    ],
+                    "boton_texto": "",
+                    "boton_url": "",
+                    "boton_estilo": "relleno"
+                },
+                {
+                    "id": "s-pq-marcas",
+                    "tipo": "logos",
+                    "oculto": false,
+                    "fondo": "claro",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "subir",
+                    "ancla": "",
+                    "titulo": "Ellos confían en nosotros",
+                    "intro": "",
+                    "estilo": "grilla",
+                    "items": [
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_austral-1.png",
+                                "alt": "austral"
+                            },
+                            "nombre": "austral"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_dreams-1.png",
+                                "alt": "Dreams"
+                            },
+                            "nombre": "Dreams"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_falabella-1.png",
+                                "alt": "Falabella"
+                            },
+                            "nombre": "Falabella"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ford.png",
+                                "alt": "Ford"
+                            },
+                            "nombre": "Ford"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_guayacan-1.png",
+                                "alt": "Guayacán"
+                            },
+                            "nombre": "Guayacán"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_kunstmann-1.png",
+                                "alt": "Kunstmann"
+                            },
+                            "nombre": "Kunstmann"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mercado-libre-1.png",
+                                "alt": "Mercado Libre"
+                            },
+                            "nombre": "Mercado Libre"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_mistral-1.png",
+                                "alt": "Mistral"
+                            },
+                            "nombre": "Mistral"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_UA-1.png",
+                                "alt": "Universidad de Antofagasta"
+                            },
+                            "nombre": "Universidad de Antofagasta"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_uach-1.png",
+                                "alt": "Universidad Austral de Chile"
+                            },
+                            "nombre": "Universidad Austral de Chile"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_ucv.png",
+                                "alt": "PUCV"
+                            },
+                            "nombre": "PUCV"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_utfsm-1.png",
+                                "alt": "UTFSM"
+                            },
+                            "nombre": "UTFSM"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_WOM.png",
+                                "alt": "WOM"
+                            },
+                            "nombre": "WOM"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_monticello-1.png",
+                                "alt": "Monticello"
+                            },
+                            "nombre": "Monticello"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_brujas-1.png",
+                                "alt": "Brujas"
+                            },
+                            "nombre": "Brujas"
+                        },
+                        {
+                            "img": {
+                                "src": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "medio": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "mini": "https://mivaso.cl/wp-content/uploads/2025/12/MARCAS_alto-del-carmen-1.png",
+                                "alt": "Alto del Carmen"
+                            },
+                            "nombre": "Alto del Carmen"
+                        }
+                    ],
+                    "boton_texto": "Cotiza aquí",
+                    "boton_url": "/cotizador/",
+                    "boton_estilo": "relleno"
+                }
+            ],
+            "actualizado": "2026-10-24T17:47:35-03:00"
+        },
+        {
+            "id": "contacto",
+            "slug": "contacto",
+            "titulo": "Contacto",
+            "tipo": "pagina",
+            "sistema": true,
+            "estado": "publicado",
+            "plantilla": {
+                "cabecera": "normal",
+                "pie": "normal"
+            },
+            "seo": {
+                "titulo": "Contacto - MiVaso.cl",
+                "descripcion": "Escríbenos y te ayudamos a elegir la mejor alternativa de vasos reutilizables para tu evento o negocio. contacto@mivaso.cl · +56 9 5043 5981",
+                "imagen": null,
+                "noindex": false
+            },
+            "secciones": [
+                {
+                    "id": "s-con-form",
+                    "tipo": "contacto",
+                    "oculto": false,
+                    "fondo": "blanco",
+                    "fondo_img": null,
+                    "espacio": "normal",
+                    "animacion": "ninguna",
+                    "ancla": "",
+                    "estilo": "caja",
+                    "titulo": "Contáctanos",
+                    "intro": "Te ayudaremos a elegir la mejor alternativa según tu tipo de evento o negocio.",
+                    "texto": "Completa el formulario y nos pondremos en contacto contigo a la brevedad.",
+                    "datos": [
+                        {
+                            "etiqueta": "Correo electrónico",
+                            "valor": "contacto@mivaso.cl",
+                            "url": "mailto:contacto@mivaso.cl"
+                        },
+                        {
+                            "etiqueta": "WhatsApp",
+                            "valor": "+56 9 5043 5981",
+                            "url": "https://wa.me/56950435981"
+                        },
+                        {
+                            "etiqueta": "Teléfono (solo llamadas)",
+                            "valor": "+56 2 2583 1902",
+                            "url": "tel:+56225831902"
+                        },
+                        {
+                            "etiqueta": "Horario",
+                            "valor": "Lunes a viernes de 8:00 a 17:00 horas",
+                            "url": ""
+                        }
+                    ],
+                    "etiqueta_nombre": "Nombre y apellido"
+                }
+            ],
+            "actualizado": "2026-10-24T17:47:35-03:00"
+        }
+    ],
+    "menu": [
+        {
+            "id": "m-inicio",
+            "tipo": "pagina",
+            "ref": "inicio",
+            "etiqueta": "INICIO",
+            "nivel": 0,
+            "visible": true
+        },
+        {
+            "id": "m-nosotros",
+            "tipo": "pagina",
+            "ref": "nosotros",
+            "etiqueta": "NOSOTROS",
+            "nivel": 0,
+            "visible": true
+        },
+        {
+            "id": "m-para-quien",
+            "tipo": "pagina",
+            "ref": "para-quien",
+            "etiqueta": "¿PARA QUIÉN?",
+            "nivel": 0,
+            "visible": true
+        },
+        {
+            "id": "m-productos",
+            "tipo": "productos",
+            "etiqueta": "PRODUCTOS",
+            "nivel": 0,
+            "visible": true
+        },
+        {
+            "id": "m-contacto",
+            "tipo": "pagina",
+            "ref": "contacto",
+            "etiqueta": "CONTACTO",
+            "nivel": 0,
+            "visible": true
+        }
+    ]
+}
